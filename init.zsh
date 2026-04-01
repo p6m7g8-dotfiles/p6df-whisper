@@ -25,5 +25,5 @@ p6df::modules::whisper::deps() {
 ######################################################################
 p6df::modules::whisper::profile::mod() {
 
-  p6_return_words 'whisper' "$"
+  p6_return_words 'whisper' '$OPENAI_API_KEY'
 }
