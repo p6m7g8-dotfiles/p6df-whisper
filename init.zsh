@@ -15,10 +15,10 @@ p6df::modules::whisper::deps() {
 ######################################################################
 #<
 #
-# Function: words whisper $OPENAI_API_KEY = p6df::modules::whisper::profile::mod()
+# Function: words whisper = p6df::modules::whisper::profile::mod()
 #
 #  Returns:
-#	words - whisper $OPENAI_API_KEY
+#	words - whisper
 #
 #  Environment:	 OPENAI_API_KEY
 #>

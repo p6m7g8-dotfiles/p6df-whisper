@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-whisper/init.zsh
 
 - `p6df::modules::whisper::deps()`
-- `words whisper $OPENAI_API_KEY = p6df::modules::whisper::profile::mod()`
+- `words whisper = p6df::modules::whisper::profile::mod()`
 
 ## Hierarchy
 
